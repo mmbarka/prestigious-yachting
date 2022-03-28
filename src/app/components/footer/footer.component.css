@@ -1,0 +1,133 @@
+#myFooter{
+    background-color: #0f3c6a;
+    background-color: transparent;
+    background-size: contain;
+    width: auto;
+    background-repeat: no-repeat;
+    background-image: url(logo_fond_background.ed10bc4733025b4a9af9.svg);
+    background-position: 0% 63%;
+    background-size: 380px;
+    padding-top: 1vh;
+}
+#myFooter .footer-back {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+#myFooter .title .firstletter {
+    font-family: 'Raleway';
+    font-size: 1.875rem;
+    letter-spacing: 7.5px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+#myFooter .title {
+    font-family: 'Raleway';
+    font-size: 1.75rem;
+    font-weight: 300 !important;
+    letter-spacing: 6.5px;
+    text-transform: uppercase;
+}
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+.col-lg-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.container-fluid{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#myFooter .info_footer {
+    font-family: 'Raleway';
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 2.19;
+}
+
+#myFooter .no-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#myFooter a {
+    color: white;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    outline: 0;
+}
+
+#myFooter .newsletters {
+    height: 3.563rem;
+    background-color: rgba(255, 255, 255, 0.34);
+    color: white;
+    border: none;
+    border-radius: 0;
+}
+.newsletters {
+    border-right: 1px solid #0F2338 !important;
+}
+#myFooter .btn-sub {
+    height: 3.563rem;
+    border-radius: 0;
+    width: 100%;
+}
+#myFooter .backbrun {
+    background-color: #bbaa9e;
+    border: 1px solid #bbaa9e !important;
+    height: 88px;
+    color: white;
+    font-family: 'Raleway';
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+#myFooter .btn-sub {
+    height: 3.563rem;
+    border-radius: 0;
+}
+#myFooter hr {
+    background-color: white;
+}
+#myFooter .cgv {
+    font-family: 'Raleway';
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+#myFooter .footer-copyright {
+    font-family: 'Raleway';
+    font-size: 0.75rem;
+    font-weight: 300;
+    line-height: 3.67;
+}
+#myFooter .white-font {
+    color: white;
+}
+#myFooter .social-networks .link .icon {
+    color: #666;
+    position: absolute;
+    font-family: "Font Awesome 5 Free Brands" !important;
+    font-weight: 900;
+    bottom: 0;
+    left: -25px;
+    right: -25px;
+    padding: 5px 7px;
+    z-index: -1;
+    font-size: 1rem;
+    border-radius: 2px;
+    background: #fff;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}

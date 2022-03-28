@@ -1,0 +1,93 @@
+.pad-none {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.brun_font {
+    color: #dfcec1;
+}
+.ez {
+    padding: 3rem;
+}
+.section-title {
+    text-transform: capitalize;
+    font-family: Raleway;
+    font-size: 1.875rem;
+    font-weight: 300;
+    line-height: 1.87;
+    color: #bbaa9e;
+}
+section{
+    display: block;
+}
+.we {
+    color: #0f3c6a;
+    font-family: PlayfairDisplay;
+    font-size: 3.125rem;
+    font-weight: 300;
+    line-height: 0.8;
+}
+.Prestigiousyacht {
+    font-family: PlayfairDisplay;
+    font-size: 3.125rem;
+    font-weight: bold;
+    line-height: 1.22;
+    color: #0f3c6a;
+}
+.icon-serv {
+    height: 120px;
+    margin-bottom: 5vh;
+    border: none;
+}
+#option h2 {
+    color: #0f3c6a;
+    font-size: 2rem;
+}
+.heighttext {
+    width: 70%;
+    margin: auto;
+    padding-bottom: 4em;
+    padding-top: 1em;
+    min-height: 100px;
+    
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 16px;
+}
+.btn-blue {
+    border: none;
+    border-radius: inherit;
+    height: 70px;
+    padding: 5px;
+    margin: 0 auto;
+    max-width: 257px;
+    width: 90%;
+    font-family: Raleway;
+    font-size: 1rem;
+    font-weight: 500;
+    color: white;
+    transition: all 0.3s;
+    background-image: linear-gradient(104deg, #213850, rgba(15, 35, 56, 0.5)), linear-gradient(to bottom, #0f2338, #0f2338);
+}
+#option {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.marg-120l {
+    margin-left: 8vw;
+}
+.hr-1200 {
+    width: 17vw !important;
+}
+.hryacht {
+    position: relative;
+    top: 53px;
+    width: 130px;
+    border: 1px solid;
+    text-align: left;
+    margin-left: 0;
+}

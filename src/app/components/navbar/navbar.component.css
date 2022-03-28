@@ -1,0 +1,39 @@
+.bgcolor.scrolled{
+    background-color: #13273d;
+}
+#logo{
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;  
+    justify-content: space-around; 
+    z-index:9999; 
+}
+
+
+.nav-item{
+    border: 0.5px solid rgba(223, 206, 193, 0.9);
+    padding: 5px 39px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+.nav-item a {
+    text-transform: uppercase;
+    font-size: 0.65rem;
+    font-weight: 500;
+    white-space: nowrap;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+#loginButton{
+    background-color: #bbaa9e;
+    border: 0.5px solid #bbaa9e !important;
+}

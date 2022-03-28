@@ -1,0 +1,89 @@
+.marg-0 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.pad-none {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+.brun_font {
+    color: #dfcec1;
+}
+.hryacht {
+    position: relative;
+    top: 53px;
+    width: 130px;
+    border: 1px solid;
+    text-align: left;
+    margin-left: 0;
+}
+.ez {
+    padding: 3rem;
+}
+.subtitle_info {
+    font-size: 1.375rem;
+    color: #0f3c6a;
+}
+.paragraph_info {
+    font-family: 'Raleway';
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 2.75;
+    color: #0f3c6a;
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+.text-info2 {
+    padding: 30px;
+    padding-left: 60px;
+    text-align: justify;
+    color: #0f3c6a;
+}
+.text-info-t {
+    margin-top: 115px;
+}
+.section-title{
+    text-transform: capitalize;
+    font-family: Raleway;
+    font-size: 1.875rem;
+    font-weight: 300;
+    line-height: 1.87;
+    color: #bbaa9e;
+}
+.we {
+    color: #0f3c6a;
+    font-family: PlayfairDisplay;
+    font-size: 3.125rem;
+    font-weight: 300;
+    line-height: 0.8;
+}
+.Prestigiousyacht {
+    font-family: PlayfairDisplay;
+    font-size: 3.125rem;
+    font-weight: bold;
+    line-height: 1.22;
+    color: #0f3c6a;
+}
+
+
+#btn-cta2 .btn-draw>span {
+    position: relative;
+    display: block;
+    padding: 0.5em;
+    font-family: 'Raleway';
+    font-size: 1.125em;
+    color: #0f3c6a;
+    font-weight: 700;
+    text-decoration: none;
+}
+.marg-120l {
+    margin-left: 8vw;
+}
+.hr-1200 {
+    width: 17vw;
+}
+
