@@ -8,14 +8,16 @@ const app = express();
 dotenv.config();
 
 
-// Serve only the static files form the dist directory
-app.use(express.static(__dirname + '/dist/prestigiou-ysachting'));
+// // Serve only the static files form the dist directory
+// app.use(express.static(__dirname + '/dist/prestigiou-ysachting'));
 
-app.get('/*', function (req, res) {
-    res.sendFile(path.join(__dirname + '/dist/prestigious-yachting/index.html'));
+// app.get('/*', function (req, res) {
+//     res.sendFile(path.join(__dirname + '/dist/prestigious-yachting/index.html'));
+// });
+
+app.get('*', (req, res) => {
+    res.sendFile(`./prestigious-yachting/dist/index.html`); // load the single view file (angular will handle the page changes on the front-end)
 });
-
-
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
